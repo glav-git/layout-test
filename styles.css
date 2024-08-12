@@ -34,7 +34,7 @@ nav {
 
 header {
   margin-top: 80px;
-  padding: 80px 25%;
+  padding: 50px 25%;
   box-sizing: border-box;
   display: grid;
   place-items: start;
@@ -55,7 +55,7 @@ main {
 }
 
 #posts-grid {
-  margin-top: 50px;
+  margin-block: 50px;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: 10px;
